@@ -1,0 +1,68 @@
+﻿@model OrderCreateViewModel
+
+<div class="bg-light pb-5">
+
+    <div class="container">
+        <div class="py-5 text-center">
+            <h2>Order package</h2>
+            <p class="lead">Please fill in the form and review details</p>
+        </div>
+
+        <div class="row mx-auto" style="width:80%">
+            <div class="col-md-6 order-md-1">
+                <h4 class="mb-3">Order details</h4>
+                <form asp-controller="Order" asp-action="Create" asp-antiforgery="true" method="Post" enctype="multipart/form-data">
+
+                    <div asp-validation-summary="ModelOnly">
+
+                    </div>
+
+                    <div>
+                        <input hidden="hidden" asp-for="PackageId" />
+                    </div>
+
+                    <div>
+                        <input hidden="hidden" asp-for="Name" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Price">Price Per Person</label>
+                        <input type="text" class="form-control" asp-for="Price" readonly>
+                        <span style="color:red" asp-validation-for="Price"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name">Package Name</label>
+                        <input type="text" class="form-control" asp-for="Name" readonly>
+                        <span style="color:red" asp-validation-for="Name"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Quantity"></label>
+                        <input type="text" class="form-control" asp-for="Quantity">
+                        <span style="color:red" asp-validation-for="Quantity"></span>
+                    </div>
+
+                    <hr class="mb-4">
+
+                    <button class="btn btn-primary" style="background-color:darkcyan; border-color:darkcyan" type="submit">Order</button>
+                </form>
+            </div>
+            <div class="col-md-6 order-md-1">
+                <div class="mx-auto mt-4">
+                    <img src="~/uploads/package/@Model.Picture" alt="Package Picture" style="width:100%" /> @*style="width:600px*@
+                </div>
+                <div>
+                    <p class="font-weight-bold">Location</p>
+                    <p>@Model.Location</p>
+                </div>
+                <div>
+                    <p class="font-weight-bold">Description</p>
+                    <p>@Model.Description</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

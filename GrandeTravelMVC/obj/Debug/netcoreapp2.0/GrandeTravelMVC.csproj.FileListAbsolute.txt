@@ -1,0 +1,16 @@
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/web.config
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/bower.json
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/GrandeTravelMVC.deps.json
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/GrandeTravelMVC.runtimeconfig.json
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/GrandeTravelMVC.runtimeconfig.dev.json
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/GrandeTravelMVC.dll
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/bin/Debug/netcoreapp2.0/GrandeTravelMVC.pdb
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.csproj.AssemblyReference.cache
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.AssemblyInfoInputs.cache
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.AssemblyInfo.cs
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.csproj.CoreCompileInputs.cache
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.sourcelink.json
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.dll
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.pdb
+/home/hoducvu/Documents/Documents_for_class/4th_year/semester_1/Soft_technology/projects/WebDuLichCode/aspnetcoremvc/GrandeTravelMVC/obj/Debug/netcoreapp2.0/GrandeTravelMVC.genruntimeconfig.cache
